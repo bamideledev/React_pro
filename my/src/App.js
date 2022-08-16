@@ -1,22 +1,16 @@
-import Header from './samantaP/header';
+
 import './index.css'
 import React from 'react'
-import { BrowserRouter as Router, Switch } from 'react-router-dom';
-
+import TechTik from './techtik/techtik';
+import Home from './newproject/Head'
 
 export default function App() {
   return (
     <div>
-      <Router>
-        <Header/>
-        <Switch>
-          { /*<Route path='/' exact>
-            <About/>
-  </Route>*/}
-        </Switch>
-      </Router>
+      <Home/>
+
     </div>
-  )
+  );
 }
 
 

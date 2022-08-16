@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_menu img{
+    height: 50px;
+    width: 30px;
+}
+.btn{
+    background-color: blue ;
+}
