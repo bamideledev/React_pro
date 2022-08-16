@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/React_pro/static/css/main.15e4226b.css",
-    "main.js": "/React_pro/static/js/main.ea667d2e.js",
+    "main.css": "/React_pro/static/css/main.ac635e10.css",
+    "main.js": "/React_pro/static/js/main.a9a253e2.js",
+    "static/media/techtik.jpeg": "/React_pro/static/media/techtik.e13e503322447312ab3b.jpeg",
     "index.html": "/React_pro/index.html",
-    "main.15e4226b.css.map": "/React_pro/static/css/main.15e4226b.css.map",
-    "main.ea667d2e.js.map": "/React_pro/static/js/main.ea667d2e.js.map"
+    "main.ac635e10.css.map": "/React_pro/static/css/main.ac635e10.css.map",
+    "main.a9a253e2.js.map": "/React_pro/static/js/main.a9a253e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.15e4226b.css",
-    "static/js/main.ea667d2e.js"
+    "static/css/main.ac635e10.css",
+    "static/js/main.a9a253e2.js"
   ]
 }
